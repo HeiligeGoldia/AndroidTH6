@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Data/GitHub/AndroidTH6/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Data/GitHub/AndroidTH6/app/src/main/res/layout/activity_main2.xml" value="0.358695652173913" />
+        <entry key="..\:/Data/GitHub/AndroidTH6/app/src/main/res/layout/fragment_shoelist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Data/GitHub/AndroidTH6/app/src/main/res/layout/fragment_total.xml" value="0.36666666666666664" />
+        <entry key="..\:/Data/GitHub/AndroidTH6/app/src/main/res/layout/shoe.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22192028985507245" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.22192028985507245" />
         <entry key="app/src/main/res/layout/fragment_san_pham.xml" value="0.40570170084635415" />
